@@ -28,7 +28,8 @@ Aplikasi ini ditujukan untuk seluruh sivitas akademika IT Del, termasuk mahasisw
 
 ## Teknologi yang Digunakan:
 
-- **Bahasa Pemrograman Java:** Aplikasi dibangun dengan menggunakan konsep OOP (Object Oriented Programming) dalam bahasa pemrograman Java.
+- **Bahasa Pemrograman Java:** Aplikasi dibangun dengan menggunakan konsep OOP (Object Oriented Programming) dalam bahasa pemrograman Java. Dan menerapkan arsitektur MVC (Model View Controller)
 - **Framework IDE Apache NetBeans 19:** Tampilan antarmuka aplikasi dibuat dengan menggunakan framework IDE Apache NetBeans 19 untuk memudahkan pengembangan dan manajemen proyek.
+- **Basis data SQL:** Aplikasi ini menggunakan sistem basis data SQL di mana menggunakan bahasa pemrograman basis data query SQL(Structured Query Language) dan Sistem Manajemen Basis Data MySQL. Aplikasi manajemen database yang digunakan adalah SQLyog
 
 Aplikasi MyAzik dirancang untuk memudahkan proses manajemen izin keluar bagi mahasiswa/i IT Del dengan memastikan bahwa setiap permohonan direspon secara cepat dan efisien oleh pihak yang berwenang.
